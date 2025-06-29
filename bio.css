@@ -1,0 +1,46 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fdfdfd;
+  color: #333;
+}
+
+h1 {
+  color: hotpink;
+  border-bottom: 10px dotted purple;
+}
+
+h2 {
+  font-style: italic;
+  color: #555;
+}
+
+img {
+  border-radius: 50%;
+  margin: 10px 0;
+  display: block;
+}
+
+.contact-details {
+  background-color: #eeeeee;
+  border: 5px solid purple;
+  padding: 10px;
+  list-style-type: none;
+}
+
+.contact-details a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+}
+
+footer {
+  margin-top: 40px;
+  font-size: 0.9em;
+  text-align: center;
+  color: #666;
+}
